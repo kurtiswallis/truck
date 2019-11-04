@@ -1,7 +1,7 @@
 body {
-	background: url("TCU.png");
-	background-repeat: no-repeat;
-   background-position: absolute;
-   background-top: 0px;
-   background-right: 0px;
+	background-image: url("TCU.png");
+	background-image-repeat: no-repeat;
+   background-imageposition: absolute;
+   background-imagetop: 0px;
+   background-imageright: 0px;
 	}
