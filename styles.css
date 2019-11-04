@@ -1,8 +1,8 @@
 body {
-	background-image: url("TCU.png");
-   background-image-position: absolute;
-   background-image-top: 0px;
-   background-image-right: 0px;
-   background-image-height: 60;
-   background-image-width: auto;
+	background: url("TCU.png");
+   position: absolute;
+   top: 0px;
+   right: 0px;
+   height: 60%;
+   width: auto;
 	}
