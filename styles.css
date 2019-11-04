@@ -1,4 +1,4 @@
 body {
-	background: url("TCU.png");
-	background-size: 78% 53%;
+	background-image: url("TCU.png");
+	background-image-size: cover;
 }
