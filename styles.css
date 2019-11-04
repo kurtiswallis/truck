@@ -1,0 +1,23 @@
+body {
+	background-image: url("crc.png");
+}
+
+.donate {
+	background-image: url("donate.png");
+}
+
+.enroll {
+	background-image: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+}
+
+.wrapper img {
+	background-image: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	max-width: 475px;
+}
